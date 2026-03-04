@@ -1,1 +1,1 @@
-# Deep-Learning-UCS761
+# ASSIGNMENTS ARE SUBMITTED UNDER "submission" FOLDER
